@@ -5,6 +5,9 @@
  * 3. install heroku cli
  * 4. login heroku
  * -------------------
- * for eche
+ * for each project one time
+ * 1. heroku create
+ * 2. make sure you: git add . git commit. git push
+ * 
  * 
  */
